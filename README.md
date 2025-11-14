@@ -3,14 +3,12 @@ A workshop on data from English women's football
 
 Use the data in [this repository](https://github.com/probjects/ewf-database).
 
-Produce a notebook that analyses some aspect of the data.
+Produce a streamlit app to show some aspect of the data to the user.
 
-Put the notebook online using Streamlit and your own github repo.
+Submit a pull request to **this** repository with an edit to this README containing a link to your app. Include a notebook (and csv) if you've used one.
 
-Submit a pull request to **this** repository with an edit to this README with a link to your live notebook, below.
+GROUP 1. Our app is [here](someurl)
 
-GROUP 1. Our notebook is [here](someurl)
-
-GROUP 2. Our notebook is [here](someurl)
+GROUP 2. Our app is [here](someurl)
 
 etc.
